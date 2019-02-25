@@ -1,0 +1,13 @@
+cirr tests.fraig/sim04.aag
+cirsiMulate -r tests.fraig/pattern.04
+cirsiMulate -f tests.fraig/pattern.04
+cirp -fec
+cirg 0
+cirg 1
+cirg 2
+cirread tests.fraig/sim05.aag
+cirr tests.fraig/sim05.aag -r
+cirsiMulate -f tests.fraig/pattern.05
+cirsiMulate -f tests.fraig/pattern.05
+cirf
+cirg 0

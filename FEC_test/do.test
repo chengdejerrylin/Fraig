@@ -1,0 +1,10 @@
+cirr test.aag
+cirsim -f patterns-1
+cirp -fec
+cirsim -f patterns-10
+cirp -fec
+cirsim -f patterns-1
+cirp -fec
+cirsim -f patterns-10
+cirp -fec
+q -f

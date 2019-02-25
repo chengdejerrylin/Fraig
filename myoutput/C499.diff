@@ -1,0 +1,12 @@
+4d3
+< 3264 patterns simulated.
+9d7
+< 2688 patterns simulated.
+14d11
+< 2688 patterns simulated.
+39,40c36,37
+< Period time used : 0.04 seconds
+< Total time used  : 0.04 seconds
+---
+> Period time used : 0.02 seconds
+> Total time used  : 0.02 seconds

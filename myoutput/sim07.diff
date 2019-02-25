@@ -1,0 +1,22 @@
+4d3
+< 64 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+32c29
+<   AIG       1226
+---
+>   AIG       1175
+34c31
+<   Total     1425
+---
+>   Total     1374
+39,41c36,38
+< Period time used : 3.98 seconds
+< Total time used  : 3.98 seconds
+< Total memory used: 1.684 M Bytes
+---
+> Period time used : 7.32 seconds
+> Total time used  : 7.32 seconds
+> Total memory used: 6.219 M Bytes

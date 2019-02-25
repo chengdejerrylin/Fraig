@@ -1,0 +1,6 @@
+cirr tests.fraig/sim13.aag
+cirsim -f tests.fraig/pattern.13
+cirf
+usage
+cirp
+exit

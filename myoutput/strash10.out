@@ -1,0 +1,44 @@
+fraig> cirr ./tests.fraig/strash10.aag
+
+fraig> cirsim -r
+64 patterns simulated.
+
+fraig> cirfraig
+
+fraig> cirsim -r
+64 patterns simulated.
+
+fraig> cirfraig
+
+fraig> cirsim -r
+64 patterns simulated.
+
+fraig> cirfraig
+
+fraig> cirp -fec
+
+fraig> cirsw
+
+fraig> ciropt
+
+fraig> cirstrash
+
+fraig> cirp
+
+Circuit Statistics
+==================
+  PI           2
+  PO           1
+  AIG          0
+------------------
+  Total        3
+
+fraig> cirw -o myoutput/ref.aag
+
+fraig> usage
+Period time used : 0 seconds
+Total time used  : 0 seconds
+Total memory used: 0 M Bytes
+
+fraig> q -f
+

@@ -1,0 +1,41 @@
+fraig> cirr ./tests.fraig/C6288.aag
+
+fraig> cirsim -r
+
+fraig> cirfraig
+
+fraig> cirsim -r
+
+fraig> cirfraig
+
+fraig> cirsim -r
+
+fraig> cirfraig
+
+fraig> cirp -fec
+
+fraig> cirsw
+
+fraig> ciropt
+
+fraig> cirstrash
+
+fraig> cirp
+
+Circuit Statistics
+==================
+  PI          32
+  PO          32
+  AIG       2291
+------------------
+  Total     2355
+
+fraig> cirw -o myoutput/ref.aag
+
+fraig> usage
+Period time used : 0.01 seconds
+Total time used  : 0.01 seconds
+Total memory used: 0.3906 M Bytes
+
+fraig> q -f
+

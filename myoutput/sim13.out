@@ -1,0 +1,44 @@
+fraig> cirr ./tests.fraig/sim13.aag
+
+fraig> cirsim -r
+96192 patterns simulated.
+
+fraig> cirfraig
+
+fraig> cirsim -r
+88320 patterns simulated.
+
+fraig> cirfraig
+
+fraig> cirsim -r
+96896 patterns simulated.
+
+fraig> cirfraig
+
+fraig> cirp -fec
+
+fraig> cirsw
+
+fraig> ciropt
+
+fraig> cirstrash
+
+fraig> cirp
+
+Circuit Statistics
+==================
+  PI        3357
+  PO        3343
+  AIG      77261
+------------------
+  Total    83961
+
+fraig> cirw -o myoutput/ref.aag
+
+fraig> usage
+Period time used : 59.21 seconds
+Total time used  : 59.21 seconds
+Total memory used: 26.09 M Bytes
+
+fraig> q -f
+

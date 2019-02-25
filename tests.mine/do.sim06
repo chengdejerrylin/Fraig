@@ -1,0 +1,5 @@
+cirr tests.fraig/sim06.aag
+cirsim -r
+cirf
+usage
+exit

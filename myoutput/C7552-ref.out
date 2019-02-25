@@ -1,0 +1,41 @@
+fraig> cirr ./tests.fraig/C7552.aag
+
+fraig> cirsim -r
+
+fraig> cirfraig
+
+fraig> cirsim -r
+
+fraig> cirfraig
+
+fraig> cirsim -r
+
+fraig> cirfraig
+
+fraig> cirp -fec
+
+fraig> cirsw
+
+fraig> ciropt
+
+fraig> cirstrash
+
+fraig> cirp
+
+Circuit Statistics
+==================
+  PI         207
+  PO         108
+  AIG        497
+------------------
+  Total      812
+
+fraig> cirw -o myoutput/ref.aag
+
+fraig> usage
+Period time used : 0.42 seconds
+Total time used  : 0.42 seconds
+Total memory used: 2.895 M Bytes
+
+fraig> q -f
+

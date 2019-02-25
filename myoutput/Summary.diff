@@ -1,0 +1,533 @@
+#########C1355#########
+4d3
+< 3008 patterns simulated.
+9d7
+< 2304 patterns simulated.
+14d11
+< 2048 patterns simulated.
+39,40c36,37
+< Period time used : 0.05 seconds
+< Total time used  : 0.05 seconds
+---
+> Period time used : 0 seconds
+> Total time used  : 0 seconds
+  AIG          0
+#########C17#########
+4d3
+< 64 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+  AIG          0
+#########C1908#########
+4d3
+< 7616 patterns simulated.
+9d7
+< 4352 patterns simulated.
+14d11
+< 5056 patterns simulated.
+39,40c36,37
+< Period time used : 0.13 seconds
+< Total time used  : 0.13 seconds
+---
+> Period time used : 0.05 seconds
+> Total time used  : 0.05 seconds
+  AIG          0
+#########C3540#########
+4d3
+< 2816 patterns simulated.
+9d7
+< 1984 patterns simulated.
+14d11
+< 1984 patterns simulated.
+39,41c36,38
+< Period time used : 0.22 seconds
+< Total time used  : 0.22 seconds
+< Total memory used: 0 M Bytes
+---
+> Period time used : 0.07 seconds
+> Total time used  : 0.07 seconds
+> Total memory used: 0.1992 M Bytes
+  AIG          0
+#########C432#########
+4d3
+< 1728 patterns simulated.
+9d7
+< 1920 patterns simulated.
+14d11
+< 512 patterns simulated.
+  AIG          0
+#########C432_r#########
+4d3
+< 1728 patterns simulated.
+9d7
+< 640 patterns simulated.
+14d11
+< 896 patterns simulated.
+39,40c36,37
+< Period time used : 0.01 seconds
+< Total time used  : 0.01 seconds
+---
+> Period time used : 0 seconds
+> Total time used  : 0 seconds
+  AIG          0
+#########C499#########
+4d3
+< 3264 patterns simulated.
+9d7
+< 2688 patterns simulated.
+14d11
+< 2688 patterns simulated.
+39,40c36,37
+< Period time used : 0.04 seconds
+< Total time used  : 0.04 seconds
+---
+> Period time used : 0.02 seconds
+> Total time used  : 0.02 seconds
+  AIG          0
+#########C499_r#########
+4d3
+< 1664 patterns simulated.
+9d7
+< 1344 patterns simulated.
+14d11
+< 1344 patterns simulated.
+32c29
+<   AIG        263
+---
+>   AIG        274
+34c31
+<   Total      336
+---
+>   Total      347
+  AIG          0
+#########C5315#########
+4d3
+< 5952 patterns simulated.
+9d7
+< 4288 patterns simulated.
+14d11
+< 3584 patterns simulated.
+32c29
+<   AIG       1007
+---
+>   AIG       1001
+34c31
+<   Total     1308
+---
+>   Total     1302
+39,41c36,38
+< Period time used : 0.5 seconds
+< Total time used  : 0.5 seconds
+< Total memory used: 0 M Bytes
+---
+> Period time used : 0.19 seconds
+> Total time used  : 0.19 seconds
+> Total memory used: 1.672 M Bytes
+  AIG          0
+#########C6288#########
+4d3
+< 1408 patterns simulated.
+9d7
+< 128 patterns simulated.
+14d11
+< 128 patterns simulated.
+39,41c36,38
+< Period time used : 0.03 seconds
+< Total time used  : 0.03 seconds
+< Total memory used: 0 M Bytes
+---
+> Period time used : 0.01 seconds
+> Total time used  : 0.01 seconds
+> Total memory used: 0.3906 M Bytes
+  AIG          0
+#########C7552#########
+4d3
+< 3072 patterns simulated.
+9d7
+< 192 patterns simulated.
+14d11
+< 192 patterns simulated.
+32c29
+<   AIG        496
+---
+>   AIG        497
+34c31
+<   Total      811
+---
+>   Total      812
+39,41c36,38
+< Period time used : 1.04 seconds
+< Total time used  : 1.04 seconds
+< Total memory used: 0.2148 M Bytes
+---
+> Period time used : 0.42 seconds
+> Total time used  : 0.42 seconds
+> Total memory used: 2.895 M Bytes
+  AIG          0
+#########C880#########
+4d3
+< 3136 patterns simulated.
+9d7
+< 3136 patterns simulated.
+14d11
+< 3392 patterns simulated.
+39,40c36,37
+< Period time used : 0.01 seconds
+< Total time used  : 0.01 seconds
+---
+> Period time used : 0 seconds
+> Total time used  : 0 seconds
+  AIG          0
+#########opt01#########
+4d3
+< 64 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+  AIG          0
+#########opt02#########
+4d3
+< 64 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+  AIG          0
+#########opt03#########
+4d3
+< 64 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+  AIG          0
+#########opt04#########
+4d3
+< 64 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+  AIG          0
+#########opt05#########
+4d3
+< 64 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+  AIG          0
+#########opt06#########
+4d3
+< 64 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+  AIG          0
+#########opt07#########
+4d3
+< 64 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+  AIG          0
+#########sim01#########
+4d3
+< 64 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+  AIG          0
+#########sim02#########
+4d3
+< 64 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+  AIG          0
+#########sim03#########
+4d3
+< 64 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+  AIG          0
+#########sim04#########
+4d3
+< 64 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+  AIG          0
+#########sim05#########
+4d3
+< 64 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+  AIG          0
+#########sim06#########
+4d3
+< 64 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+39,41c36,38
+< Period time used : 0.35 seconds
+< Total time used  : 0.35 seconds
+< Total memory used: 0.1562 M Bytes
+---
+> Period time used : 0.36 seconds
+> Total time used  : 0.36 seconds
+> Total memory used: 1.746 M Bytes
+  AIG          0
+#########sim07#########
+4d3
+< 64 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+32c29
+<   AIG       1226
+---
+>   AIG       1175
+34c31
+<   Total     1425
+---
+>   Total     1374
+39,41c36,38
+< Period time used : 3.98 seconds
+< Total time used  : 3.98 seconds
+< Total memory used: 1.684 M Bytes
+---
+> Period time used : 7.32 seconds
+> Total time used  : 7.32 seconds
+> Total memory used: 6.219 M Bytes
+  AIG          0
+#########sim08#########
+4d3
+< 64 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+  AIG          0
+#########sim09#########
+4d3
+< 5952 patterns simulated.
+9d7
+< 4288 patterns simulated.
+14d11
+< 3584 patterns simulated.
+32c29
+<   AIG       1007
+---
+>   AIG       1001
+34c31
+<   Total     1308
+---
+>   Total     1302
+39,41c36,38
+< Period time used : 0.5 seconds
+< Total time used  : 0.5 seconds
+< Total memory used: 0 M Bytes
+---
+> Period time used : 0.17 seconds
+> Total time used  : 0.17 seconds
+> Total memory used: 1.934 M Bytes
+  AIG          0
+#########sim10#########
+4d3
+< 1728 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+39,40c36,37
+< Period time used : 0.05 seconds
+< Total time used  : 0.05 seconds
+---
+> Period time used : 0.03 seconds
+> Total time used  : 0.03 seconds
+  AIG          0
+#########sim11#########
+4d3
+< 64 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+  AIG          0
+#########sim12#########
+4d3
+< 5120 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+39,41c36,38
+< Period time used : 2.99 seconds
+< Total time used  : 2.99 seconds
+< Total memory used: 1.848 M Bytes
+---
+> Period time used : 2.64 seconds
+> Total time used  : 2.64 seconds
+> Total memory used: 5.539 M Bytes
+  AIG          0
+#########sim13#########
+4d3
+< 96192 patterns simulated.
+9d7
+< 88320 patterns simulated.
+14d11
+< 96896 patterns simulated.
+39,41c36,38
+< Period time used : 59.21 seconds
+< Total time used  : 59.21 seconds
+< Total memory used: 26.09 M Bytes
+---
+> Period time used : 99.87 seconds
+> Total time used  : 99.87 seconds
+> Total memory used: 89.84 M Bytes
+  AIG          0
+#########sim14#########
+4d3
+< 3136 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+39,40c36,37
+< Period time used : 0.07 seconds
+< Total time used  : 0.07 seconds
+---
+> Period time used : 0.04 seconds
+> Total time used  : 0.04 seconds
+  AIG          0
+#########sim15#########
+4d3
+< 3520 patterns simulated.
+9d7
+< 3200 patterns simulated.
+14d11
+< 2880 patterns simulated.
+  AIG          0
+#########strash01#########
+4d3
+< 64 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+  AIG          0
+#########strash02#########
+4d3
+< 64 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+  AIG          0
+#########strash03#########
+4d3
+< 64 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+  AIG          0
+#########strash04#########
+4d3
+< 64 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+  AIG          0
+#########strash05#########
+4d3
+< 64 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+32c29
+<   AIG          0
+---
+>   AIG          2
+34c31
+<   Total        5
+---
+>   Total        7
+#########strash06#########
+4d3
+< 64 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+  AIG          0
+#########strash07#########
+4d3
+< 64 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+  AIG          0
+#########strash08#########
+4d3
+< 64 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+  AIG          0
+#########strash09#########
+4d3
+< 64 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+  AIG          0
+#########strash10#########
+4d3
+< 64 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+  AIG          0
+#########test1#########
+4d3
+< 2880 patterns simulated.
+9d7
+< 2624 patterns simulated.
+14d11
+< 4608 patterns simulated.
+41c38
+< Total memory used: 0 M Bytes
+---
+> Total memory used: 0.04688 M Bytes
+  AIG          0
+#########test2#########
+4d3
+< 64 patterns simulated.
+9d7
+< 64 patterns simulated.
+14d11
+< 64 patterns simulated.
+  AIG          0

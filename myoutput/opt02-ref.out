@@ -1,0 +1,41 @@
+fraig> cirr ./tests.fraig/opt02.aag
+
+fraig> cirsim -r
+
+fraig> cirfraig
+
+fraig> cirsim -r
+
+fraig> cirfraig
+
+fraig> cirsim -r
+
+fraig> cirfraig
+
+fraig> cirp -fec
+
+fraig> cirsw
+
+fraig> ciropt
+
+fraig> cirstrash
+
+fraig> cirp
+
+Circuit Statistics
+==================
+  PI           1
+  PO           1
+  AIG          0
+------------------
+  Total        2
+
+fraig> cirw -o myoutput/ref.aag
+
+fraig> usage
+Period time used : 0 seconds
+Total time used  : 0 seconds
+Total memory used: 0 M Bytes
+
+fraig> q -f
+

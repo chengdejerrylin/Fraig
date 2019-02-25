@@ -1,0 +1,20 @@
+cirr tests.fraig/sim12.aag -r
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+ciropt
+cirp
+cirsw
+cirp
+cirstrash
+cirsw
+cirp
+cirsim -random
+cirp -fec
+cirfraig
+cirw -o ref.aag
+cirmiter ref.aag ref.aag
+cirsw 
+ciropt
